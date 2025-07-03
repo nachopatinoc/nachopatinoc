@@ -12,6 +12,10 @@
 
 ---
 
+![nachopatinoc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nachopatinoc&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+---
+
 ### 🌐 Conectemos
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_USUARIO/)  
