@@ -12,7 +12,7 @@
 
 ---
 
-![nachopatinoc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nachopatinoc&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![nachopatinoc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nachopatinoc&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
