@@ -3,7 +3,7 @@
 
 💻 Desarrollador en formación y en constante aprendizaje.
 
-🎓 Estudiante de Ingeniería en Sistemas en la UTN (FRSR).
+🎓 Estudiante de Ingeniería en Sistemas en UTN (FRSR).
 
 🌱 Me enfoco en aprender tecnologías que me permitan crear soluciones limpias, escalables y bien estructuradas.
 
