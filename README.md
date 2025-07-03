@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**nachopatinoc/nachopatinoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 ¡Hola! Soy Ignacio (Nacho) Patiño 
 
-Here are some ideas to get you started:
+💻 Desarrollador en formación y en constante aprendizaje.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudiante de Ingeniería en Sistemas en la UTN (FRSR).
+
+🌱 Me interesa explorar distintas tecnologías, entender cómo funcionan las cosas y construir soluciones simples para problemas complejos.  
+
+🧪 Actualmente trabajando en **Aedes Technologies**, una startup de desarrollo de software.
+
+---
+
+### 🌐 Conectemos
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_USUARIO/)  
+📬 Email: ignaciocorregabbi@gmail.com
+
+
