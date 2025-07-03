@@ -3,7 +3,7 @@
 
 💻 Desarrollador en formación y en constante aprendizaje.
 
-🚀 Actualmente formo parte de **[Aedes](https://aedestech.vercel.app/)**, donde desarrollamos soluciones tecnológicas a medida.
+🚀 Co-fundador de **[Aedes](https://aedestech.vercel.app/)**, una startup de desarrollo de software. Ya realizamos varios proyectos reales con clientes y seguimos creciendo como equipo.
 
 🎓 Estudiante de Ingeniería en Sistemas en UTN (FRSR).
 
