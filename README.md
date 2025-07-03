@@ -3,11 +3,12 @@
 
 💻 Desarrollador en formación y en constante aprendizaje.
 
+🚀 Actualmente formo parte de **[Aedes Technologies](https://aedestech.vercel.app/)**, donde desarrollamos soluciones tecnológicas a medida.
+
 🎓 Estudiante de Ingeniería en Sistemas en UTN (FRSR).
 
 🌱 Me enfoco en aprender tecnologías que me permitan crear soluciones limpias, escalables y bien estructuradas.
 
-🧪 Actualmente formo parte de **[Aedes Technologies](https://aedestech.vercel.app/)**, donde desarrollamos soluciones tecnológicas a medida.
 
 ---
 
